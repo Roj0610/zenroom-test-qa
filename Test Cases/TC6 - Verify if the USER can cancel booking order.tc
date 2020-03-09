@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC6 - Verify if the USER can cancel booking order</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>a0b403d5-f902-40a7-a15f-86895d8c5677</testCaseGuid>
+</TestCaseEntity>

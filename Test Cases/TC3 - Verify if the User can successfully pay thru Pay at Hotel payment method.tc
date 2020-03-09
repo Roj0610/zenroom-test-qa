@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC3 - Verify if the User can successfully pay thru Pay at Hotel payment method</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>3c411192-67a8-45fe-98b7-444314f3837c</testCaseGuid>
+</TestCaseEntity>

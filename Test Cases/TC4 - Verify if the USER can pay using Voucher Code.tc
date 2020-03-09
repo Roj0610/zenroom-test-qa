@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC4 - Verify if the USER can pay using Voucher Code</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>ebac67b4-4f64-4ecd-89f7-d6e08110b174</testCaseGuid>
+</TestCaseEntity>

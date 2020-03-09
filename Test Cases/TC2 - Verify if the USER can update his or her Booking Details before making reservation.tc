@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC2 - Verify if the USER can update his or her Booking Details before making reservation</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>e8ceb39e-359a-49ac-9040-747dd477e2d0</testCaseGuid>
+</TestCaseEntity>

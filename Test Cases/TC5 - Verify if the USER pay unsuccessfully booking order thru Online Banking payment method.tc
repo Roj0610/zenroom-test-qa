@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC5 - Verify if the USER pay unsuccessfully booking order thru Online Banking payment method</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>6880e402-8682-4b35-bbbf-e6a1f3aa556a</testCaseGuid>
+</TestCaseEntity>
